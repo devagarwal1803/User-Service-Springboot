@@ -1,5 +1,6 @@
 package dev.dev.userservice;
 
+import dev.dev.userservice.model.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
